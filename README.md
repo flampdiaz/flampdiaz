@@ -13,7 +13,7 @@ Game development originally inspired me to learn programming, and it remains an 
 ## What I build
 
 - **Web & business software:** Full-stack applications, CMS platforms, internal tools, business systems, and client workflows.
-- **Mobile & desktop applications:** Cross-platform mobile apps with Flutter, and database-driven desktop applications using C# WinForms, Java SE, Visual C++, Electron, and NW.js.
+- **Mobile & desktop applications:** Cross-platform mobile apps with Flutter, and database-driven desktop applications using C# WinForms, Java Swing, Visual C++, Electron, and NW.js.
 - **Developer tools:** Visual editors, code-generation workflows, custom Unity Editor extensions, experimental Unreal Engine tooling, testing automation, and open-source utilities.
 - **Cloud & backend systems:** REST APIs, databases, serverless applications, CI/CD, infrastructure, and deployment workflows.
 - **Games & interactive experiences:** Gameplay systems, levels, XR simulations, and interactive applications using game engines and programming frameworks.
@@ -61,6 +61,7 @@ Developing a language transpiler and editor tooling prototype for Unreal Engine,
 - **Carbon Black:** Built Go-based testing automation for endpoint security telemetry using isolated virtual machines and GitLab CI/CD workflows.
 - **Project-based freelance work:** Developed custom WordPress/PHP/MySQL functionality, client websites, and early-stage web product prototypes.
 - **InsideTracker:** Supported IT and information security operations in a HealthTech environment, including access management, MFA, VPN, and endpoint security.
+- **Alpha Eve (Contract):** Developed Unity/C# games and interactive prototypes, working on gameplay systems, asset integration, testing, and iteration.
 
 ## Technologies
 
@@ -70,9 +71,13 @@ Developing a language transpiler and editor tooling prototype for Unreal Engine,
 
 **Backend & APIs:** Node.js, Express, REST APIs, WordPress/PHP
 
+**Academic Software Foundations (ITESA):** C++, C# WinForms, Java Swing, desktop business systems, and database development
+
+**Academic Backend Foundations (ITLA):** Java/Spring, C#/ASP.NET, PHP/CodeIgniter, server-side business applications, and database integration
+
 **Databases I've worked with:** SQL Server, PostgreSQL, MySQL, MongoDB, SQLite, Cloudflare D1
 
-**Mobile & Desktop:** Flutter, C# WinForms, Java SE, Visual C++, Electron, NW.js, iOS/Android development
+**Mobile & Desktop:** Flutter, C# WinForms, Java Swing, Visual C++, Electron, NW.js, iOS/Android development
 
 **Cloud & DevOps:** Cloudflare Pages, Workers, D1, R2, KV; GitHub Actions, GitLab CI/CD, Docker, VPS/hosting, DNS/SSL, Azure Blob Storage, AWS/GCP fundamentals
 
