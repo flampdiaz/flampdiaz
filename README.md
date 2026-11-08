@@ -56,7 +56,7 @@ Developing a language transpiler and editor tooling prototype for Unreal Engine,
 
 ## Professional engineering experience
 
-- **Soft Dynamic:** Built a low-code desktop editor using Electron, React, and PhaserJS, with a 2D scene editor, animation timeline, visual events, and project/code-generation workflows.
+- **Soft Dynamic:** Architected and developed a no-code desktop editor using Electron, React, JavaScript, Node.js, and PhaserJS, featuring drag-and-drop scene editing, animation timelines, predefined actions for text, movement, and scene transitions, and automatic PhaserJS code generation.
 - **BitReel:** Developed and modernized the React/Redux frontend of an enterprise CMS, integrated an existing Python REST API, and worked on WebXR/3D viewer workflows.
 - **Carbon Black:** Built Go-based testing automation for endpoint security telemetry using isolated virtual machines and GitLab CI/CD workflows.
 - **Project-based freelance work:** Developed custom WordPress/PHP/MySQL functionality, client websites, and early-stage web product prototypes.
